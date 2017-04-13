@@ -1,0 +1,2481 @@
+fileFormatVersion: 2
+guid: bfbe43add14fad74a877db083bcac28a
+timeCreated: 1471385092
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: imageedit_1_9783296000_0
+    21300002: imageedit_1_9783296000_1
+    21300004: imageedit_1_9783296000_2
+    21300006: imageedit_1_9783296000_3
+    21300008: imageedit_1_9783296000_4
+    21300010: imageedit_1_9783296000_5
+    21300012: imageedit_1_9783296000_6
+    21300014: imageedit_1_9783296000_7
+    21300016: imageedit_1_9783296000_8
+    21300018: imageedit_1_9783296000_9
+    21300020: imageedit_1_9783296000_10
+    21300022: imageedit_1_9783296000_11
+    21300024: imageedit_1_9783296000_12
+    21300026: imageedit_1_9783296000_13
+    21300028: imageedit_1_9783296000_14
+    21300030: imageedit_1_9783296000_15
+    21300032: imageedit_1_9783296000_16
+    21300034: imageedit_1_9783296000_17
+    21300036: imageedit_1_9783296000_18
+    21300038: imageedit_1_9783296000_19
+    21300040: imageedit_1_9783296000_20
+    21300042: imageedit_1_9783296000_21
+    21300044: imageedit_1_9783296000_22
+    21300046: imageedit_1_9783296000_23
+    21300048: imageedit_1_9783296000_24
+    21300050: imageedit_1_9783296000_25
+    21300052: imageedit_1_9783296000_26
+    21300054: imageedit_1_9783296000_27
+    21300056: imageedit_1_9783296000_28
+    21300058: imageedit_1_9783296000_29
+    21300060: imageedit_1_9783296000_30
+    21300062: imageedit_1_9783296000_31
+    21300064: imageedit_1_9783296000_32
+    21300066: imageedit_1_9783296000_33
+    21300068: imageedit_1_9783296000_34
+    21300070: imageedit_1_9783296000_35
+    21300072: imageedit_1_9783296000_36
+    21300074: imageedit_1_9783296000_37
+    21300076: imageedit_1_9783296000_38
+    21300078: imageedit_1_9783296000_39
+    21300080: imageedit_1_9783296000_40
+    21300082: imageedit_1_9783296000_41
+    21300084: imageedit_1_9783296000_42
+    21300086: imageedit_1_9783296000_43
+    21300088: imageedit_1_9783296000_44
+    21300090: imageedit_1_9783296000_45
+    21300092: imageedit_1_9783296000_46
+    21300094: imageedit_1_9783296000_47
+    21300096: imageedit_1_9783296000_48
+    21300098: imageedit_1_9783296000_49
+    21300100: imageedit_1_9783296000_50
+    21300102: imageedit_1_9783296000_51
+    21300104: imageedit_1_9783296000_52
+    21300106: imageedit_1_9783296000_53
+    21300108: imageedit_1_9783296000_54
+    21300110: imageedit_1_9783296000_55
+    21300112: imageedit_1_9783296000_56
+    21300114: imageedit_1_9783296000_57
+    21300116: imageedit_1_9783296000_58
+    21300118: imageedit_1_9783296000_59
+    21300120: imageedit_1_9783296000_60
+    21300122: imageedit_1_9783296000_61
+    21300124: imageedit_1_9783296000_62
+    21300126: imageedit_1_9783296000_63
+    21300128: imageedit_1_9783296000_64
+    21300130: imageedit_1_9783296000_65
+    21300132: imageedit_1_9783296000_66
+    21300134: imageedit_1_9783296000_67
+    21300136: imageedit_1_9783296000_68
+    21300138: imageedit_1_9783296000_69
+    21300140: imageedit_1_9783296000_70
+    21300142: imageedit_1_9783296000_71
+    21300144: imageedit_1_9783296000_72
+    21300146: imageedit_1_9783296000_73
+    21300148: imageedit_1_9783296000_74
+    21300150: imageedit_1_9783296000_75
+    21300152: imageedit_1_9783296000_76
+    21300154: imageedit_1_9783296000_77
+    21300156: imageedit_1_9783296000_78
+    21300158: imageedit_1_9783296000_79
+    21300160: imageedit_1_9783296000_80
+    21300162: imageedit_1_9783296000_81
+    21300164: imageedit_1_9783296000_82
+    21300166: imageedit_1_9783296000_83
+    21300168: imageedit_1_9783296000_84
+    21300170: imageedit_1_9783296000_85
+    21300172: imageedit_1_9783296000_86
+    21300174: imageedit_1_9783296000_87
+    21300176: imageedit_1_9783296000_88
+    21300178: imageedit_1_9783296000_89
+    21300180: imageedit_1_9783296000_90
+    21300182: imageedit_1_9783296000_91
+    21300184: imageedit_1_9783296000_92
+    21300186: imageedit_1_9783296000_93
+    21300188: imageedit_1_9783296000_94
+    21300190: imageedit_1_9783296000_95
+    21300192: imageedit_1_9783296000_96
+    21300194: imageedit_1_9783296000_97
+    21300196: imageedit_1_9783296000_98
+    21300198: imageedit_1_9783296000_99
+    21300200: imageedit_1_9783296000_100
+    21300202: imageedit_1_9783296000_101
+    21300204: imageedit_1_9783296000_102
+    21300206: imageedit_1_9783296000_103
+    21300208: imageedit_1_9783296000_104
+    21300210: imageedit_1_9783296000_105
+    21300212: imageedit_1_9783296000_106
+    21300214: imageedit_1_9783296000_107
+    21300216: imageedit_1_9783296000_108
+    21300218: imageedit_1_9783296000_109
+    21300220: imageedit_1_9783296000_110
+    21300222: imageedit_1_9783296000_111
+    21300224: imageedit_1_9783296000_112
+    21300226: imageedit_1_9783296000_113
+    21300228: imageedit_1_9783296000_114
+    21300230: imageedit_1_9783296000_115
+    21300232: imageedit_1_9783296000_116
+    21300234: imageedit_1_9783296000_117
+    21300236: imageedit_1_9783296000_118
+    21300238: imageedit_1_9783296000_119
+    21300240: imageedit_1_9783296000_120
+    21300242: imageedit_1_9783296000_121
+    21300244: imageedit_1_9783296000_122
+    21300246: imageedit_1_9783296000_123
+    21300248: imageedit_1_9783296000_124
+    21300250: imageedit_1_9783296000_125
+    21300252: imageedit_1_9783296000_126
+    21300254: imageedit_1_9783296000_127
+    21300256: imageedit_1_9783296000_128
+    21300258: imageedit_1_9783296000_129
+    21300260: imageedit_1_9783296000_130
+    21300262: imageedit_1_9783296000_131
+    21300264: imageedit_1_9783296000_132
+    21300266: imageedit_1_9783296000_133
+    21300268: imageedit_1_9783296000_134
+    21300270: imageedit_1_9783296000_135
+    21300272: imageedit_1_9783296000_136
+    21300274: imageedit_1_9783296000_137
+    21300276: imageedit_1_9783296000_138
+    21300278: imageedit_1_9783296000_139
+    21300280: imageedit_1_9783296000_140
+    21300282: imageedit_1_9783296000_141
+    21300284: imageedit_1_9783296000_142
+    21300286: imageedit_1_9783296000_143
+    21300288: imageedit_1_9783296000_144
+    21300290: imageedit_1_9783296000_145
+    21300292: imageedit_1_9783296000_146
+    21300294: imageedit_1_9783296000_147
+    21300296: imageedit_1_9783296000_148
+    21300298: imageedit_1_9783296000_149
+    21300300: imageedit_1_9783296000_150
+    21300302: imageedit_1_9783296000_151
+    21300304: imageedit_1_9783296000_152
+    21300306: imageedit_1_9783296000_153
+    21300308: imageedit_1_9783296000_154
+    21300310: imageedit_1_9783296000_155
+    21300312: imageedit_1_9783296000_156
+    21300314: imageedit_1_9783296000_157
+    21300316: imageedit_1_9783296000_158
+    21300318: imageedit_1_9783296000_159
+    21300320: imageedit_1_9783296000_160
+    21300322: imageedit_1_9783296000_161
+    21300324: imageedit_1_9783296000_162
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: imageedit_1_9783296000_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 886
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 886
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 885
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 886
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_4
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 886
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 865
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 866
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 866
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 865
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 865
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 846
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 846
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 845
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 846
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_14
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 846
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 825
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_18
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 825
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 825
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_20
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 806
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 806
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 806
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 498
+        width: 212
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 120}
+        - {x: 81, y: 157}
+        - {x: -28, y: 157}
+        - {x: -83, y: 103}
+        - {x: -82, y: 93}
+        - {x: -81, y: 90}
+        - {x: -78, y: 87}
+        - {x: -95, y: 104}
+        - {x: -106, y: 98}
+        - {x: -106, y: 20}
+        - {x: -89, y: 0}
+        - {x: -67, y: -133}
+        - {x: -22, y: -157}
+        - {x: 21, y: -157}
+        - {x: 55, y: -137}
+        - {x: 55, y: -120}
+        - {x: 106, y: -49}
+      - - {x: -98, y: -142}
+        - {x: -89, y: -152}
+        - {x: -86, y: -151}
+        - {x: -86, y: -148}
+        - {x: -95, y: -139}
+        - {x: -97, y: -139}
+      - - {x: 62, y: -108}
+        - {x: 62, y: -109}
+        - {x: 64, y: -111}
+        - {x: 65, y: -111}
+        - {x: 74, y: -102}
+        - {x: 74, y: -100}
+        - {x: 71, y: -99}
+      - - {x: 91, y: -79}
+        - {x: 82, y: -88}
+        - {x: 83, y: -91}
+        - {x: 87, y: -91}
+        - {x: 94, y: -83}
+        - {x: 94, y: -80}
+      - - {x: 102, y: -68}
+        - {x: 102, y: -69}
+        - {x: 104, y: -71}
+        - {x: 106, y: -70}
+        - {x: 106, y: -65}
+        - {x: 105, y: -65}
+      - - {x: 103, y: -39}
+        - {x: 102, y: -42}
+        - {x: 105, y: -45}
+        - {x: 106, y: -45}
+        - {x: 106, y: -40}
+        - {x: 105, y: -39}
+      - - {x: 82, y: -22}
+        - {x: 91, y: -31}
+        - {x: 94, y: -30}
+        - {x: 94, y: -28}
+        - {x: 85, y: -19}
+        - {x: 83, y: -19}
+      - - {x: 62, y: -2}
+        - {x: 71, y: -12}
+        - {x: 74, y: -11}
+        - {x: 74, y: -8}
+        - {x: 65, y: 1}
+        - {x: 63, y: 1}
+      - - {x: -78, y: 138}
+        - {x: -69, y: 129}
+        - {x: -66, y: 130}
+        - {x: -66, y: 132}
+        - {x: -75, y: 141}
+        - {x: -77, y: 141}
+      - - {x: -96, y: 157}
+        - {x: -94, y: 152}
+        - {x: -89, y: 148}
+        - {x: -86, y: 149}
+        - {x: -86, y: 152}
+        - {x: -91, y: 157}
+      - - {x: 27, y: 157}
+        - {x: 22, y: 152}
+        - {x: 23, y: 149}
+        - {x: 25, y: 149}
+        - {x: 32, y: 156}
+        - {x: 32, y: 157}
+    - name: imageedit_1_9783296000_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 805
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_25
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 806
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_26
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 806
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 686
+        width: 129
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: -42}
+        - {x: -61.5, y: -51}
+        - {x: -61.5, y: -52}
+        - {x: -54.5, y: -52}
+        - {x: -49.5, y: -46}
+        - {x: -49.5, y: -43}
+      - - {x: 64.5, y: 23}
+        - {x: 63.5, y: 29}
+        - {x: 16.5, y: 52}
+        - {x: -11.5, y: 52}
+        - {x: -64.5, y: 32}
+        - {x: -64.5, y: -22}
+        - {x: -53.5, y: -51}
+        - {x: -40.5, y: -52}
+        - {x: 8.5, y: -52}
+        - {x: 18.5, y: -49}
+        - {x: 53.5, y: -36}
+        - {x: 50.5, y: -31}
+        - {x: 64.5, y: -26}
+      - - {x: 58.5, y: -43}
+        - {x: 58.5, y: -46}
+        - {x: 63.5, y: -50}
+        - {x: 64.5, y: -50}
+        - {x: 64.5, y: -45}
+        - {x: 61.5, y: -42}
+      - - {x: -37.5, y: 52}
+        - {x: -37.5, y: 51}
+        - {x: -32.5, y: 45}
+        - {x: -29.5, y: 46}
+        - {x: -29.5, y: 49}
+        - {x: -32.5, y: 52}
+      - - {x: 41.5, y: 52}
+        - {x: 38.5, y: 49}
+        - {x: 39.5, y: 46}
+        - {x: 41.5, y: 46}
+        - {x: 46.5, y: 51}
+        - {x: 46.5, y: 52}
+    - name: imageedit_1_9783296000_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 785
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 786
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_30
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 785
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_31
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 786
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_32
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 766
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_33
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 766
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_34
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 743
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 743
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_36
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 743
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_37
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 743
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_38
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 743
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_39
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 743
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_40
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 743
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_41
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 498
+        width: 160
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 121}
+        - {x: -61, y: 121}
+        - {x: -80, y: 92}
+        - {x: -80, y: -4}
+        - {x: -56, y: -104}
+        - {x: -33, y: -121}
+        - {x: 30, y: -121}
+        - {x: 62, y: -103}
+        - {x: 80, y: -49}
+        - {x: 80, y: 120}
+      - - {x: -45, y: -46}
+        - {x: -36, y: -56}
+        - {x: -33, y: -55}
+        - {x: -33, y: -52}
+        - {x: -42, y: -43}
+        - {x: -44, y: -43}
+      - - {x: -65, y: -26}
+        - {x: -56, y: -35}
+        - {x: -53, y: -34}
+        - {x: -53, y: -32}
+        - {x: -62, y: -23}
+        - {x: -64, y: -23}
+      - - {x: -80, y: -27}
+        - {x: -80, y: -32}
+        - {x: -79, y: -32}
+        - {x: -73, y: -26}
+        - {x: -73, y: -24}
+        - {x: -76, y: -23}
+      - - {x: -80, y: -12}
+        - {x: -76, y: -16}
+        - {x: -73, y: -15}
+        - {x: -73, y: -12}
+        - {x: -79, y: -6}
+        - {x: -80, y: -6}
+      - - {x: -56, y: -3}
+        - {x: -65, y: -12}
+        - {x: -64, y: -15}
+        - {x: -60, y: -15}
+        - {x: -53, y: -7}
+        - {x: -53, y: -4}
+      - - {x: 64, y: 117}
+        - {x: 55, y: 108}
+        - {x: 56, y: 105}
+        - {x: 60, y: 105}
+        - {x: 67, y: 113}
+        - {x: 67, y: 116}
+    - name: imageedit_1_9783296000_42
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 726
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_43
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 496
+        width: 131
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 106}
+        - {x: -65.5, y: 83}
+        - {x: -65.5, y: -53}
+        - {x: -62.5, y: -83}
+        - {x: -27.5, y: -106}
+        - {x: 49.5, y: -106}
+        - {x: 57.5, y: -105}
+        - {x: 65.5, y: -76}
+        - {x: 65.5, y: 81}
+        - {x: 41.5, y: 106}
+      - - {x: 54.5, y: -66}
+        - {x: 53.5, y: -68}
+        - {x: 53.5, y: -72}
+        - {x: 61.5, y: -78}
+        - {x: 63.5, y: -78}
+        - {x: 65.5, y: -77}
+        - {x: 65.5, y: -75}
+        - {x: 56.5, y: -66}
+      - - {x: -65.5, y: -54}
+        - {x: -65.5, y: -58}
+        - {x: -64.5, y: -59}
+        - {x: -61.5, y: -58}
+        - {x: -54.5, y: -49}
+        - {x: -54.5, y: -47}
+        - {x: -57.5, y: -46}
+      - - {x: 33.5, y: -49}
+        - {x: 42.5, y: -59}
+        - {x: 45.5, y: -58}
+        - {x: 45.5, y: -55}
+        - {x: 36.5, y: -46}
+        - {x: 34.5, y: -46}
+      - - {x: 24.5, y: -49}
+        - {x: 27.5, y: -48}
+        - {x: 27.5, y: -45}
+        - {x: 24.5, y: -44}
+        - {x: 22.5, y: -46}
+      - - {x: -37.5, y: -26}
+        - {x: -46.5, y: -35}
+        - {x: -46.5, y: -37}
+        - {x: -44.5, y: -38}
+        - {x: -41.5, y: -38}
+        - {x: -34.5, y: -31}
+        - {x: -34.5, y: -28}
+        - {x: -36.5, y: -26}
+      - - {x: 14.5, y: -26}
+        - {x: 13.5, y: -28}
+        - {x: 13.5, y: -32}
+        - {x: 21.5, y: -38}
+        - {x: 23.5, y: -38}
+        - {x: 25.5, y: -37}
+        - {x: 25.5, y: -35}
+        - {x: 16.5, y: -26}
+    - name: imageedit_1_9783296000_44
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 705
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 666
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 686
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 665
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_48
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 671
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_49
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 646
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 556
+        width: 130
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51.5}
+        - {x: -65, y: 18.5}
+        - {x: -65, y: -22.5}
+        - {x: -27, y: -51.5}
+        - {x: 21, y: -51.5}
+        - {x: 65, y: -28.5}
+        - {x: 65, y: 18.5}
+        - {x: 10, y: 51.5}
+    - name: imageedit_1_9783296000_51
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 626
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 606
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_53
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 605
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 586
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_55
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 586
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 565
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 546
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 316
+        width: 154
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 116.5}
+        - {x: -54, y: 66.5}
+        - {x: -70, y: 21.5}
+        - {x: -66, y: 8.5}
+        - {x: -62, y: 7.5}
+        - {x: -77, y: -35.5}
+        - {x: -77, y: -50.5}
+        - {x: -35, y: -116.5}
+        - {x: 41, y: -116.5}
+        - {x: 77, y: -98.5}
+        - {x: 77, y: -10.5}
+        - {x: 22, y: 116.5}
+      - - {x: -65, y: 60.5}
+        - {x: -56, y: 50.5}
+        - {x: -53, y: 51.5}
+        - {x: -53, y: 54.5}
+        - {x: -62, y: 63.5}
+        - {x: -64, y: 63.5}
+      - - {x: 35, y: 74.5}
+        - {x: 35, y: 72.5}
+        - {x: 37, y: 70.5}
+        - {x: 40, y: 71.5}
+        - {x: 47, y: 80.5}
+        - {x: 47, y: 82.5}
+        - {x: 44, y: 83.5}
+      - - {x: -77, y: 72.5}
+        - {x: -76, y: 71.5}
+        - {x: -73, y: 72.5}
+        - {x: -73, y: 74.5}
+        - {x: -76, y: 77.5}
+        - {x: -77, y: 77.5}
+      - - {x: 64, y: 103.5}
+        - {x: 55, y: 94.5}
+        - {x: 55, y: 92.5}
+        - {x: 57, y: 91.5}
+        - {x: 60, y: 91.5}
+        - {x: 67, y: 98.5}
+        - {x: 67, y: 101.5}
+        - {x: 65, y: 103.5}
+    - name: imageedit_1_9783296000_59
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 525
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_60
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 505
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 506
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 486
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 486
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_64
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 485
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_65
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 486
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_66
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 321
+        width: 89
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 81.5}
+        - {x: 0.5, y: 81.5}
+        - {x: -44.5, y: 11.5}
+        - {x: -44.5, y: -59.5}
+        - {x: -8.5, y: -81.5}
+        - {x: 9.5, y: -81.5}
+        - {x: 12.5, y: -78.5}
+        - {x: 44.5, y: -54.5}
+        - {x: 44.5, y: 25.5}
+      - - {x: -41.5, y: -69.5}
+        - {x: -32.5, y: -79.5}
+        - {x: -29.5, y: -78.5}
+        - {x: -29.5, y: -75.5}
+        - {x: -38.5, y: -66.5}
+        - {x: -40.5, y: -66.5}
+      - - {x: 27.5, y: -66.5}
+        - {x: 18.5, y: -75.5}
+        - {x: 19.5, y: -78.5}
+        - {x: 23.5, y: -78.5}
+        - {x: 30.5, y: -70.5}
+        - {x: 30.5, y: -67.5}
+      - - {x: 38.5, y: -55.5}
+        - {x: 38.5, y: -57.5}
+        - {x: 40.5, y: -58.5}
+        - {x: 42.5, y: -58.5}
+        - {x: 44.5, y: -56.5}
+        - {x: 44.5, y: -50.5}
+        - {x: 43.5, y: -50.5}
+    - name: imageedit_1_9783296000_67
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 465
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_68
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 466
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_69
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 466
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_70
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 465
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_71
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 319
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 69}
+        - {x: -32, y: 66}
+        - {x: -28, y: 53}
+        - {x: -19, y: 52}
+        - {x: -16, y: 54}
+        - {x: -13, y: 57}
+        - {x: -20, y: 50}
+        - {x: -23, y: 51}
+        - {x: -55, y: 45}
+        - {x: -56, y: 39}
+        - {x: -56, y: -45}
+        - {x: -11, y: -69}
+        - {x: 20, y: -69}
+        - {x: 56, y: -44}
+        - {x: 56, y: 69}
+      - - {x: 53, y: 24}
+        - {x: 55, y: 22}
+        - {x: 56, y: 22}
+        - {x: 56, y: 28}
+        - {x: 53, y: 27}
+    - name: imageedit_1_9783296000_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 443
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_73
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 443
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_74
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 443
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_75
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 317
+        width: 129
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 71.5}
+        - {x: -64.5, y: 71.5}
+        - {x: -64.5, y: -23.5}
+        - {x: -41.5, y: -71.5}
+        - {x: 20.5, y: -71.5}
+        - {x: 21.5, y: -39.5}
+        - {x: 60.5, y: 6.5}
+        - {x: 64.5, y: 17.5}
+      - - {x: -36.5, y: -52.5}
+        - {x: -45.5, y: -61.5}
+        - {x: -45.5, y: -62.5}
+        - {x: -43.5, y: -64.5}
+        - {x: -38.5, y: -64.5}
+        - {x: -33.5, y: -56.5}
+        - {x: -33.5, y: -52.5}
+      - - {x: -25.5, y: -41.5}
+        - {x: -25.5, y: -43.5}
+        - {x: -23.5, y: -45.5}
+        - {x: -20.5, y: -44.5}
+        - {x: -13.5, y: -35.5}
+        - {x: -13.5, y: -33.5}
+        - {x: -16.5, y: -32.5}
+      - - {x: -37.5, y: -2.5}
+        - {x: -34.5, y: -1.5}
+        - {x: -34.5, y: 1.5}
+        - {x: -37.5, y: 2.5}
+        - {x: -39.5, y: 0.5}
+    - name: imageedit_1_9783296000_76
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_77
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 443
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_78
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_79
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 443
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_80
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 443
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 316
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 61}
+        - {x: -46, y: 55}
+        - {x: -46, y: -51}
+        - {x: -43, y: -61}
+        - {x: 16, y: -61}
+        - {x: 46, y: -38}
+        - {x: 46, y: 46}
+        - {x: 12, y: 61}
+      - - {x: 19, y: -41}
+        - {x: 18, y: -43}
+        - {x: 18, y: -47}
+        - {x: 26, y: -53}
+        - {x: 28, y: -53}
+        - {x: 30, y: -52}
+        - {x: 30, y: -50}
+        - {x: 21, y: -41}
+    - name: imageedit_1_9783296000_82
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_83
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 406
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_84
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 405
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 366
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_86
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 385
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_87
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 366
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_88
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 371
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_89
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 345
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_90
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_91
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_92
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 326
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_93
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 305
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_94
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 306
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_95
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 306
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_96
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 305
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_97
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 305
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_98
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_99
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_100
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 285
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_101
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_102
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_103
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 265
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_104
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 266
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_105
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 266
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_106
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 97
+        width: 164
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 89.5}
+        - {x: -56, y: 25.5}
+        - {x: -82, y: -61.5}
+        - {x: -82, y: -78.5}
+        - {x: -79, y: -85.5}
+        - {x: -69, y: -89.5}
+        - {x: 82, y: -89.5}
+        - {x: 82, y: 85.5}
+        - {x: 68, y: 89.5}
+      - - {x: -82, y: -62.5}
+        - {x: -81, y: -63.5}
+        - {x: -78, y: -62.5}
+        - {x: -78, y: -59.5}
+        - {x: -81, y: -56.5}
+        - {x: -82, y: -56.5}
+      - - {x: -76, y: -24.5}
+        - {x: -82, y: -24.5}
+        - {x: -82, y: -45.5}
+        - {x: -60, y: -45.5}
+        - {x: -59, y: -44.5}
+        - {x: -59, y: -32.5}
+        - {x: -61, y: -25.5}
+      - - {x: -82, y: -11.5}
+        - {x: -82, y: -16.5}
+        - {x: -80, y: -16.5}
+        - {x: -78, y: -14.5}
+        - {x: -78, y: -12.5}
+        - {x: -80, y: -10.5}
+      - - {x: -70, y: 0.5}
+        - {x: -70, y: -1.5}
+        - {x: -68, y: -3.5}
+        - {x: -63, y: -3.5}
+        - {x: -58, y: 6.5}
+        - {x: -58, y: 9.5}
+        - {x: -61, y: 9.5}
+      - - {x: -41, y: 29.5}
+        - {x: -50, y: 20.5}
+        - {x: -50, y: 18.5}
+        - {x: -48, y: 17.5}
+        - {x: -45, y: 17.5}
+        - {x: -38, y: 24.5}
+        - {x: -38, y: 27.5}
+        - {x: -40, y: 29.5}
+      - - {x: -30, y: 40.5}
+        - {x: -30, y: 38.5}
+        - {x: -28, y: 36.5}
+        - {x: -25, y: 37.5}
+        - {x: -18, y: 46.5}
+        - {x: -18, y: 48.5}
+        - {x: -21, y: 49.5}
+      - - {x: 70, y: 86.5}
+        - {x: 79, y: 76.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: 80.5}
+        - {x: 73, y: 89.5}
+        - {x: 71, y: 89.5}
+    - name: imageedit_1_9783296000_107
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 246
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_108
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 246
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_109
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 97
+        width: 154
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 83.5}
+        - {x: -68, y: 68.5}
+        - {x: -77, y: 64.5}
+        - {x: -77, y: -76.5}
+        - {x: -75, y: -83.5}
+        - {x: 60, y: -83.5}
+        - {x: 76, y: -80.5}
+        - {x: 77, y: -72.5}
+        - {x: 77, y: -8.5}
+        - {x: 10, y: 83.5}
+      - - {x: 64, y: -73.5}
+        - {x: 64, y: -75.5}
+        - {x: 66, y: -77.5}
+        - {x: 69, y: -76.5}
+        - {x: 76, y: -67.5}
+        - {x: 76, y: -65.5}
+        - {x: 73, y: -64.5}
+      - - {x: 64, y: 12.5}
+        - {x: 73, y: 3.5}
+        - {x: 76, y: 4.5}
+        - {x: 76, y: 6.5}
+        - {x: 67, y: 15.5}
+        - {x: 65, y: 15.5}
+      - - {x: 44, y: 32.5}
+        - {x: 53, y: 22.5}
+        - {x: 56, y: 23.5}
+        - {x: 56, y: 26.5}
+        - {x: 47, y: 35.5}
+        - {x: 45, y: 35.5}
+      - - {x: 24, y: 52.5}
+        - {x: 33, y: 43.5}
+        - {x: 36, y: 44.5}
+        - {x: 36, y: 46.5}
+        - {x: 27, y: 55.5}
+        - {x: 25, y: 55.5}
+    - name: imageedit_1_9783296000_110
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 246
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_111
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_112
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_113
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 225
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_114
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 206
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_116
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 97
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 58}
+        - {x: -51, y: 28}
+        - {x: -51, y: -57}
+        - {x: -48, y: -58}
+        - {x: 36, y: -58}
+        - {x: 51, y: -54}
+        - {x: 51, y: 18}
+        - {x: 23, y: 58}
+      - - {x: 40, y: 32}
+        - {x: 40, y: 31}
+        - {x: 42, y: 29}
+        - {x: 43, y: 29}
+        - {x: 51, y: 37}
+        - {x: 51, y: 40}
+        - {x: 49, y: 41}
+      - - {x: -48, y: 50}
+        - {x: -48, y: 53}
+        - {x: -51, y: 54}
+        - {x: -51, y: 49}
+    - name: imageedit_1_9783296000_117
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_118
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_119
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 185
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_120
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_121
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 165
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_122
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_123
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 97
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40.5}
+        - {x: -35, y: 4.5}
+        - {x: -35, y: -40.5}
+        - {x: 30, y: -40.5}
+        - {x: 35, y: -37.5}
+        - {x: 35, y: 32.5}
+        - {x: 23, y: 40.5}
+    - name: imageedit_1_9783296000_124
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_125
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_126
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 143
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_127
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 143
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_128
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 143
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_129
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_130
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 143
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_131
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 143
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_132
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_133
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_134
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 125
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_135
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_136
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 105
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_137
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_138
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_139
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_140
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 65
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_141
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 65
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_142
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_143
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 85
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_144
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_145
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_146
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_147
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_148
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_149
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_150
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_151
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_152
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_153
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_154
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 25
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_155
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 25
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_156
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_157
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_158
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_159
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_160
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_161
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: imageedit_1_9783296000_162
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
